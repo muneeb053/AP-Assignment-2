@@ -1,0 +1,8 @@
+This assignment was made in linux environment 
+so to check Profiling folder files you need to
+make sure that you are in linux environment except
+that all other files can be access in windows.
+
+For more convienence compilation and console images 
+are there in compilation_images folder for each
+of the 4 files to check. 
